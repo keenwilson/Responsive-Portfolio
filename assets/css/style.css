@@ -310,6 +310,9 @@ input[type=submit] {
     .container {
         width: 960px;
     }
+    .work img {
+        height: 182px;
+    }
 }
 
 @media screen and (max-width: 768px) {
